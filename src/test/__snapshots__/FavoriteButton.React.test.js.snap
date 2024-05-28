@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="sc-aYaIB fFHUkD"
+>
+  <button
+    className="sc-gEvDqW dhwOlY"
+    onClick={[Function]}
+  >
+    Save to Favorites
+  </button>
+</div>
+`;
